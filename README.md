@@ -4,7 +4,7 @@
 
 ## Assignments
 - Pre-processing
-- PCA&FA
+- PCA & FA
 - Clustering
 - Case Based Reasibubg & Association Rule & Collaboration Filters
 - Social Network Analysis
