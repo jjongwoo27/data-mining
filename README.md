@@ -6,7 +6,7 @@
 - Pre-processing
 - PCA & FA
 - Clustering
-- Case Based Reasibubg & Association Rule & Collaboration Filters
+- Case Based Reasoning & Association Rule & Collaboration Filters
 - Social Network Analysis
 - Logistic Regression & Model Assessment
 - Decision Tree
